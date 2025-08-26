@@ -8,11 +8,11 @@ A responsive chat UI illustration built with **HTML & CSS only**, based on the F
 
 **Desktop Preview**
 
-![Desktop Screenshot](./design/desktop-design.jpg)
+![Desktop Screenshot](./Results/desktop.png)
 
 **Mobile Preview**
 
-![Mobile Screenshot](./design/mobile-design.jpg)
+![Mobile Screenshot](./Results/mobile.png)
 ---
 
 ## 🔗 Live Demo & Repo
@@ -47,6 +47,7 @@ Users should be able to:
 root
 ├─ images/                # assets from the challenge
 ├─ design/                # provided JPG designs
+├─ Result/                # provided png for what we got
 ├─ index.html
 ├─ styles.css
 └─ README.md
