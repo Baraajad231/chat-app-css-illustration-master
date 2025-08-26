@@ -8,11 +8,11 @@ A responsive chat UI illustration built with **HTML & CSS only**, based on the F
 
 **Desktop Preview**
 
-![Desktop Screenshot](./design/desktop.png)
+![Desktop Screenshot](./design/desktop-design.jpg)
 
 **Mobile Preview**
 
-![Mobile Screenshot](./design/mobile.png)
+![Mobile Screenshot](./design/mobile-design.jpg)
 ---
 
 ## 🔗 Live Demo & Repo
